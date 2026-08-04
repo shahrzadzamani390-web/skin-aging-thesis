@@ -6,8 +6,8 @@ and its relationship to the aging transcriptome in human dermal fibroblasts.
 **Dataset:** GSE226189 (Tsitsipatis et al., 2023, *Aging Cell*), n=82 primary skin fibroblast
 samples, ages 22-89.
 
-**Thesis:** Near East University, Department of Medicine, Programme in Medical Genetics and
-Biology. Supervisor: Seniye Targen; Co-supervisor: Tutku Yaras.
+**Thesis:** Near East University, Medical Genetics and Biology Programme (Master with
+Thesis). Supervisor: Seniye Targen; Co-supervisor: Tutku Yaras.
 
 ## Pipeline overview
 
