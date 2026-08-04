@@ -1,0 +1,15 @@
+*.RData
+.Rhistory
+.Rproj.user/
+data/GSE226189/
+data/*.rds
+data/*.csv
+data/*.xlsx
+plots/
+results/
+scripts/
+analysis.R
+conversation-export.html
+New PY File.py
+.DS_Store
+Thumbs.db
